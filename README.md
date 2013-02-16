@@ -11,6 +11,8 @@ Uses the following colors primarily:
  * #7EC9E2 - Highlighted links
  * #D1EECD - Page background
  * #030807 - Text color / borders
+ * #DEC526 - Warning
+ * #801514 - Error
 
 ## Interoperation/Protocols
 
